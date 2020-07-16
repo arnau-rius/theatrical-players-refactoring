@@ -4,7 +4,8 @@
   "description": "",
   "main": "statement.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "ci": "npm install"
   },
   "author": "",
   "license": "ISC",
