@@ -1,12 +1,15 @@
+## ()
+
 ### Changes
 
-** xyz (000) **
+- **A**
 
 - a
 - b
 
-### Techniques / Pattern / Tips
+### Techniques
 
-#### A
+#### Name [[definition](https://github.com/arnau-rius/theatrical-players-refactoring/blob/master/docs/techniques.md#) and [refactoring.org]()]
 
-#### B
+- 
+    - 
