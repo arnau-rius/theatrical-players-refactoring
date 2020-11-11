@@ -5,6 +5,7 @@
   "main": "statement.js",
   "scripts": {
     "test": "jest",
+    "test:watch": "jest --watch",
     "ci": "npm install"
   },
   "author": "",
