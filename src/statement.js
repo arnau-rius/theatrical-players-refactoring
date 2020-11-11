@@ -22,6 +22,7 @@ function renderPlainText(data) {
 function htmlStatement(invoice, plays) {
   return renderHtml(createStatementData(invoice, plays));
 }
+
 function renderHtml(data) {
   let result = `<h1>Statement for ${data.customer}</h1>\n`;
   result += "<table>\n";
@@ -45,4 +46,4 @@ function usd(aNumber) {
   }).format(aNumber / 100);
 }
 
-module.exports = statement;
+module.exports = { statement, htmlStatement };

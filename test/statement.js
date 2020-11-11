@@ -1,4 +1,4 @@
-const statement = require("../src/statement");
+const { statement } = require("../src/statement");
 const fs = require("fs");
 
 test("statement test", () => {
