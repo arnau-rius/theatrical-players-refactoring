@@ -5,16 +5,17 @@ The first chapter of ['Refactoring' by Martin Fowler, 2nd Edition](https://www.t
 
 Pull Requests
 ---------------
-[01.Add initial tests and formatting](https://github.com/arnau-rius/theatrical-players-refactoring/pull/1)
-[02.Extract Function and Rename Variable](https://github.com/arnau-rius/theatrical-players-refactoring/pull/4)
-[03.Replace Temp with Query](https://github.com/arnau-rius/theatrical-players-refactoring/pull/5) 
-[04.Change Function Declaration](https://github.com/arnau-rius/theatrical-players-refactoring/pull/6)
-[05.Inline Variable](https://github.com/arnau-rius/theatrical-players-refactoring/pull/7)
-[06.Replace variable with Function](https://github.com/arnau-rius/theatrical-players-refactoring/pull/8)
-[07.Split Loop](https://github.com/arnau-rius/theatrical-players-refactoring/pull/9)
-[08.Slide Statements](https://github.com/arnau-rius/theatrical-players-refactoring/pull/10)
-[09.Various](https://github.com/arnau-rius/theatrical-players-refactoring/pull/11)
-[10.Split Phase Create Statement Data](https://github.com/arnau-rius/theatrical-players-refactoring/pull/12)
+- [01.Add initial tests and formatting](https://github.com/arnau-rius/theatrical-players-refactoring/pull/1)
+- [02.Extract Function and Rename Variable](https://github.com/arnau-rius/theatrical-players-refactoring/pull/4)
+- [03.Replace Temp with Query](https://github.com/arnau-rius/theatrical-players-refactoring/pull/5) 
+- [04.Change Function Declaration](https://github.com/arnau-rius/theatrical-players-refactoring/pull/6)
+- [05.Inline Variable](https://github.com/arnau-rius/theatrical-players-refactoring/pull/7)
+- [06.Replace variable with Function](https://github.com/arnau-rius/theatrical-players-refactoring/pull/8)
+- [07.Split Loop](https://github.com/arnau-rius/theatrical-players-refactoring/pull/9)
+- [08.Slide Statements](https://github.com/arnau-rius/theatrical-players-refactoring/pull/10)
+- [09.Various](https://github.com/arnau-rius/theatrical-players-refactoring/pull/11)
+- [10.Split Phase Create Statement Data](https://github.com/arnau-rius/theatrical-players-refactoring/pull/12)
+
 WIP...
 
 Kata
