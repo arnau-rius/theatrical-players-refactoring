@@ -3,6 +3,20 @@ Theatrical Players Refactoring Kata
 
 The first chapter of ['Refactoring' by Martin Fowler, 2nd Edition](https://www.thoughtworks.com/books/refactoring2) contains a worked example of this exercise, in javascript. That chapter is available to download for free. 
 
+Pull Requests
+---------------
+[01.Add initial tests and formatting](https://github.com/arnau-rius/theatrical-players-refactoring/pull/1)
+[02.Extract Function and Rename Variable](https://github.com/arnau-rius/theatrical-players-refactoring/pull/4)
+[03.Replace Temp with Query](https://github.com/arnau-rius/theatrical-players-refactoring/pull/5) 
+[04.Change Function Declaration](https://github.com/arnau-rius/theatrical-players-refactoring/pull/6)
+[05.Inline Variable](https://github.com/arnau-rius/theatrical-players-refactoring/pull/7)
+[06.Replace variable with Function](https://github.com/arnau-rius/theatrical-players-refactoring/pull/8)
+[07.Split Loop](https://github.com/arnau-rius/theatrical-players-refactoring/pull/9)
+[08.Slide Statements](https://github.com/arnau-rius/theatrical-players-refactoring/pull/10)
+[09.Various](https://github.com/arnau-rius/theatrical-players-refactoring/pull/11)
+[10.Split Phase Create Statement Data](https://github.com/arnau-rius/theatrical-players-refactoring/pull/12)
+WIP...
+
 Kata
 ---------------
 Image a company of theatrical players who go out to various events performing plays. Typically, a customer will request a few plays and the company charges them based on the size of the audience and the kind of play they perform. There are currently two kinds of plays that the company performs: tragedies and comedies. As well as providing a bill for the performance, the company gives its customers “volume credits” which they can use for discounts on future performances—think of it as a customer loyalty mechanism.
